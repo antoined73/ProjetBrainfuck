@@ -1,0 +1,19 @@
+﻿Help Git-Hub
+
+Principal commands
+
+$git pull
+$git add [file]
+$git commit -m “your comment here”
+$git push
+
+Links :
+
+Set up GitHub
+https://help.github.com/articles/set-up-git/#platform-linux
+Caching your GitHub password in Git
+https://help.github.com/articles/caching-your-github-password-in-git/
+
+GitHub cheat sheet (for the commands)
+https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf
+

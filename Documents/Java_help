@@ -1,0 +1,11 @@
+Actually, commands to compile with packages are :
+
+$ javac -d bin src/*/*.java src/Main.java 
+$ cd bin
+/bin$ jar cf ../Test.jar */*.class Main.class 
+/bin$ cd ..
+$ ./Test 
+
+
+Ctrl + r -> Search in terminal
+Ctrl + u -> Delete current line in terminal
